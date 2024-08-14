@@ -1,0 +1,64 @@
+@media  screen and (max-width:769px) {
+ .home{height: 180vh;}
+       .home .image{top: 18%;
+              width: 80%;}
+       .home-content{
+       top: 50%;}
+        .gallery-images{width: 100%;}
+ .contact .user .name,.email{ width: 100%;} 
+       .contact-group{width: 100%;}
+ .footer{height: 150vh;}
+        .social-media{width: 80%; }
+        .subscribe{ top:30%; width: 80%;}
+        .subscribe button,.subscribe input{width:100%;}
+       .footer .contact-us{ top: 80%; width: 80%;}
+ }
+    
+
+@media screen and (min-width:770px) {
+ .home{height: 150vh;}
+       .home .image{
+              top: 15%;
+              width: 70%;}
+       .home-content{bottom: 0;}
+        .gallery-images{width: 50%; } 
+        .gallery-contact  { height: 1400px;} 
+ .contact .user .name,.email{ width: 48%;}
+       .contact-group{width: 100%;}
+ .footer{height: 85vh;}
+        .subscribe{width:80%; top:50% ; margin:0 50px;}
+        .social-media{left: 30px; width: 35%; }
+       .footer .contact-us{top: 40px; right: 30px;}}
+    
+
+@media screen and (min-width:992px){
+       .home{height: 120vh;}
+ .home .image{right: 50px;
+              top: 28%;
+              width: 37%;}
+       .home-content{  top: 38%;}       
+       .gallery-contact {height:1200px;}
+       .gallery-images{width: 35%;}
+ .contact .user .name,.email{ width: 48%;}
+       .contact-group{width: 45%;}
+ .footer{height: 85vh;}
+       .subscribe{width:80%; top:50% ; margin:0 50px;}
+       .social-media{left: 30px; width: 35%; }
+       .footer .contact-us{top: 40px; right: 30px;}}
+
+@media screen and (min-width:1200px){
+ .home{ height: 100vh; }
+       .home .image{right: 6%;
+              top: 22%;
+              width: 35%;}
+        .home-content{  top: 38%;}
+        .gallery-contact { height:950px ;}
+        .gallery-images{width: 27%;}
+ .contact .user .name,.email{ width: 49%;}          
+       .contact-group{width: 48%;}
+ .footer{height: 50vh;}
+        .subscribe{width: 45%;left: 26%;top: 40px;}
+        .social-media{width: 25%; left: 30px; }
+        .footer .contact-us{width:20%;top: 40px; right: 30px;}}
+
+
